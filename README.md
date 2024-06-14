@@ -39,3 +39,12 @@ This voice assistant is buit in VS Code. It has an ability to understand human s
 + winshell
 - pyjokes
 * time
+* setuptools,take
+Installation can be done using the pip command. (Example: pip install pyttsx3)
+
+# Inbuilt Libraries Required
+- datetime
++ webbrowser
+* os
++ smtplib
+
