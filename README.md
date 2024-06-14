@@ -32,3 +32,10 @@ This voice assistant is buit in VS Code. It has an ability to understand human s
 
 15. Logs off automatically with a warning that it is shutting down when user speaks out trigger words like bye,tata.
 
+# Libraries to be Installed
++ pyttsx3
+- speech_recognition
+* wikipedia
++ winshell
+- pyjokes
+* time
